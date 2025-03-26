@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Natheer Daly and I'm a Site Reliability Eng, from Tunisia<br><br>DevSecOps, Sr DevOps, Solution Architecture, Application support, OpenShift Administrator</h2>
 
 ###
 
